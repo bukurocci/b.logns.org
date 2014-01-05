@@ -1,6 +1,5 @@
 ---
 layout: default
-title: logns.org
 ---
 
 {% if site.posts.size > 0 %}
