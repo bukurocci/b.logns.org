@@ -1,0 +1,7 @@
+author:
+ name: Bukurocci
+ email: linear.ns@gmail.com
+markdown: kramdown
+kramdown:
+ input: GFM
+ auto_ids: false
