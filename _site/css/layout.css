@@ -21,6 +21,29 @@ body {
 	font-size: 4.5em;
 }
 
+#website-header h1 a {
+	display: inline-block;
+}
+
+#website-header h1 a:link,
+#website-header h1 a:visited {
+	color: #252525;
+	text-decoration: none;
+	-webkit-transition: all 0.25s ease-out;
+	-ms-transition: all 0.25s ease-out;
+	-o-transition: all 0.25s ease-out;
+	-moz-transition: all 0.25s ease-out;
+	transition: all 0.25s ease-out;
+}
+
+#website-header h1 a:hover,
+#website-header h1 a:active {
+	color: #666;
+	text-decoration: none;
+}
+
+
+
 #website-header .tagline {
 	margin: 7px 0 0;
 	font-size: 1.6em;
