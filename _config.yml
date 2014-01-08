@@ -1,6 +1,7 @@
 author:
  name: Bukurocci
  email: linear.ns@gmail.com
+destination: ./_deploy
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 kramdown:
