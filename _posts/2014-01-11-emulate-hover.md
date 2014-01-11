@@ -10,4 +10,4 @@ categories: javascript
 
 
 ##Demo
-- [http://bukurocci.github.io/jQuery.hoverOnTouch/demo/](http://bukurocci.github.io/jQuery.hoverOnTouch/demo/)
+- [http://bukurocci.github.io/jQuery.hoverOnTouch/demo/](http://bukurocci.github.io/jQuery.hoverOnTouch/demo/)(スマホまたはタブレットで確認できます)
