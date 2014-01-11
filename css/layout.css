@@ -1,7 +1,8 @@
 @charset "UTF-8";
 
 body {
-	font-family: "Lucida Grande", "Hiragino Kaku Gothic ProN", "ヒラギノ角ゴ ProN W3", "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;
+	/*font-family:'Lucida Grande','Hiragino Kaku Gothic ProN', Meiryo, sans-serif;*/
+	font-family:"ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro", "HGS明朝E", "ＭＳ Ｐ明朝", serif;
 	line-height: 1.5;
 	color: #252525;
 	background: #fff;
@@ -46,11 +47,10 @@ body {
 #website-header .tagline {
 	margin: 7px 0 0;
 	font-size: 1.6em;
-	font-family:"ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro", "HGS明朝E", "ＭＳ Ｐ明朝", serif;
 }
 
 #main {
-	margin: 0 0 100px;
+	margin: 0 0 70px;
 	font-size: 1.6em;
 }
 
@@ -120,24 +120,6 @@ body {
 	color: #666;
 	line-height: 1;
 
-}
-
-#main .entry-body pre {
-	margin: 0 0 1em;
-	padding: 1em;
-	border: 1px solid #ccc;
-	border-radius: 3px;
-	background: #fafafa;
-	font-size: 0.75em;
-
-}
-
-#main .entry-body pre code {
-	font-family:"ヒラギノ明朝 Pro W6", "Hiragino Mincho Pro", "HGS明朝E", "ＭＳ Ｐ明朝", serif;
-}
-
-#main .entry-body ul {
-	margin-bottom: 1.5em;
 }
 
 
